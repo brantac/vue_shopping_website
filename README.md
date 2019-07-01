@@ -1,8 +1,35 @@
 # vue_shopping_website
-This is a shopping website created with Vue.js
 
-## This website has 4 pages
-Main page
+## Pages in the website
+Home page
 Product page
 Cart page
 Payment page
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
